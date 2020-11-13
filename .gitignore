@@ -1,6 +1,4 @@
 
-# Created by https://www.toptal.com/developers/gitignore/api/osx
-# Edit at https://www.toptal.com/developers/gitignore?templates=osx
 
 ### OSX ###
 # General
@@ -29,5 +27,3 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
-
-# End of https://www.toptal.com/developers/gitignore/api/osx
